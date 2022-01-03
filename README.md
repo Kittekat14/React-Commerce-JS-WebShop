@@ -13,7 +13,8 @@ I followed a [YouTube tutorial from JavaScript Mastery](https://www.youtube.com/
 - Users can enter a mock credit card number (provided by the payment service Stripe)
 - Users can complete the checkout process by getting to the confirmation page
 - Users as well as Store Owners get a confirmation email that the order has been received
-  The app is fully mobile-responsive.
+
+The app is fully mobile-responsive.
 
 **Payment Option Demo** (basically, continue typing "42" until the end of form):
 Card number: 4242 4242 4242 4242

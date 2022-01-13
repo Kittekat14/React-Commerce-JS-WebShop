@@ -2,6 +2,8 @@
 
 I followed a [YouTube tutorial from JavaScript Mastery](https://www.youtube.com/watch?v=377AQ0y6LPA&t=10162s) on how to create my own little e-commerce store. This is a simple project, thanks to the library commerce.js, that allows a store owner to store products on their commerce.js-dashboard.
 
+[Here](https://getcosy.netlify.app/) you find the deployed version, which I deployed with Netlify. Maybe I add some new products later, but since it's no real Web-Shop, I just wanted to utilize Material Ui with React to strengthen my abilities in these frameworks.
+
 ### Features:
 
 - Users can add various goods to a shopping cart on the main products page

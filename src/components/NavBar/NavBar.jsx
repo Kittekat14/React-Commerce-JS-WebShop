@@ -34,7 +34,7 @@ const NavBar = ({ totalItems }) => {
               height="25px"
               className={classes.image}
             />
-            Commerce.js
+            HomeStar
           </Typography>
           <div className={classes.grow} />
           {location.pathname === "/" && (

@@ -34,7 +34,7 @@ const NavBar = ({ totalItems }) => {
               height="25px"
               className={classes.image}
             />
-            HomeStar
+            GetCosy
           </Typography>
           <div className={classes.grow} />
           {location.pathname === "/" && (
